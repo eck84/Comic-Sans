@@ -1,0 +1,64 @@
+#container {
+}
+
+body {
+	background-color: rgb(84, 196, 206);
+}
+
+h1 {
+	font-family: "Comic Sans MS", "Comic Sans";
+	text-align: center;
+	font-size: 50px;
+	text-decoration: underline;
+	color: white;
+}
+
+#punch {
+	width: 410px;
+	float: right;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-top: 60px;
+}
+
+#punch:hover {
+	content: url(images/bam2.PNG);
+}
+
+p {
+	font-family: "Comic Sans MS", "Comic Sans";
+	font-size: 21px;
+	color: white;
+	text-align: justify;
+}
+
+#p1 {
+	margin-right: 20px;
+}
+
+#caption1 {
+	margin-top: 180px;
+	margin-left: 60px;
+}
+
+#p2 {
+	margin-top: 80px;
+	margin-left: 10px;
+}
+
+#p3 {
+	margin-left: 20px;
+}
+
+#connare {
+	height: 400px;
+	float: left;
+	margin-right: 20px;
+	margin-left: 20px;
+	border: 5px solid black;
+}
+
+#connare:hover {
+	content: url(images/angel.JPG);
+}
+

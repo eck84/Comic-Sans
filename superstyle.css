@@ -1,0 +1,36 @@
+#container {
+}
+
+body {
+	background-color: black;
+}
+
+h1 {
+	font-family: "Comic Sans MS", "Comic Sans";
+	text-align: center;
+	font-size: 50px;
+	color: white;
+	padding-bottom: 100px;
+}
+
+#ww {
+	height: 200px;
+	padding-right: 20px;
+}
+#ww:hover {
+	content: url(images/wwpow.PNG);
+}
+
+#bat {
+	height: 200px;
+	padding-right: 20px;
+}
+#bat:hover {
+	content: url(images/wamb.PNG);
+}
+
+#gl {
+	height: 200px;
+	padding-top: 20px;
+	padding-right: 20px;
+}
