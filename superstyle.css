@@ -38,31 +38,31 @@ h1:hover {
 	}
 
 #ww:hover {
-	content: url(images/wwpow.PNG);
+	content: url(wwpow.PNG);
 }
 
 #ck:hover {
-	content: url(images/bam.PNG);
+	content: url(bam.PNG);
 }
 
 #dw:hover {
-	content: url(images/fwam.PNG);
+	content: url(fwam.PNG);
 }
 
 #bat:hover {
-	content: url(images/wamb.PNG);
+	content: url(wamb.PNG);
 }
 
 #r:hover {
-	content: url(images/kapow.PNG);
+	content: url(kapow.PNG);
 }
 
 #gl:hover {
-	content: url(images/crash.PNG);
+	content: url(crash.PNG);
 }
 
 #con:hover {
-	content: url(images/thud.PNG);
+	content: url(thud.PNG);
 }
 
 #home {
