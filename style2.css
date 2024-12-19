@@ -40,7 +40,7 @@ p {
 }
 
 #connare2:hover {
-	content: url(images/devil.PNG);
+	content: url(devil.PNG);
 	transform: scale(1.1);
 }
 
